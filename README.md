@@ -4,7 +4,6 @@ As a computer science student with a passion for web development, I am constantl
 
 💬 Ways to reach me:
 - Email: azuhayer@gmail.com
-- Discord: zuhando
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=azuhayer&show_icons=true&theme=dracula" />
 
